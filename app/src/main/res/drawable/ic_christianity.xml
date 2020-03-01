@@ -1,0 +1,8 @@
+<!-- drawable/christianity.xml -->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:height="24dp"
+    android:width="24dp"
+    android:viewportWidth="24"
+    android:viewportHeight="24">
+    <path android:fillColor="#000" android:pathData="M10.5,2H13.5V8H19V11H13.5V22H10.5V11H5V8H10.5V2Z" />
+</vector>

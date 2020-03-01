@@ -1,0 +1,11 @@
+<!-- drawable/bank.xml -->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="49.35065"
+    android:viewportHeight="49.35065">
+    <group android:translateX="13.589226"
+        android:translateY="13.8177">
+        <path android:fillColor="#FFFFFF" android:pathData="M11.5,1L2,6V8H21V6M16,10V17H19V10M2,22H21V19H2M10,10V17H13V10M4,10V17H7V10H4Z" />
+    </group>
+</vector>
