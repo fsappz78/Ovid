@@ -55,12 +55,12 @@ public class HomeFragment extends Fragment {
         LinearLayout timeline_items_container = root.findViewById(R.id.timeline_items_container);
         String[] dates = new String[]{
                 "43 B.C.",
-                "25 B.C",
-                "23 B.C",
+                "25 B.C.",
+                "23 B.C.",
                 "2 A.D.",
                 "8 A.D.",
                 "9 A.D.",
-                "14 A.D",
+                "14 A.D.",
                 "17 / 18 A.D."};
         //Verbannt - warum, weiß ich selbst nicht mehr so genau, ist ja mittlerweile auch schon über zweitausend jahre her
         String[] texts = new String[]{
@@ -68,10 +68,10 @@ public class HomeFragment extends Fragment {
                 "Erster öffentlicher Vortrag - nach vorzeitig beendeter politischer Laufbahn",
                 "Beginn meiner Frühphase mit \"Amores\", ein großer Erfolg!",
                 "\"Ars Amatoria\" beendet - wieder ein Bestseller!\n\"Fasti\" begonnen.",
-                "Verbannung durch Augustus - wegen \"carmen et error\"- Ich hätte den Grund damals genauer aufschreiben sollen.\nMuss Arbeit an \"Fasti\" bei der Hälfte unterbrechen.\nBeginn meiner Klagelieder",
+                "Verbannung durch Augustus - wegen \"carmen et error\" - Ich hätte den Grund damals genauer aufschreiben sollen.\nMuss Arbeit an \"Fasti\" bei der Hälfte unterbrechen.\nBeginn meiner Klagelieder",
                 "In Tomis angekommen - ziemlich kalt.",
-                "Augustus bestorben - Begnadigung kann ich vergessen.",
-                "Der Fährmann bringt mich in den Hades. Weiß nicht mehr, wann genau das war."};
+                "Augustus gestorben - Begnadigung kann ich vergessen.",
+                "Der Fährmann bringt mich in den Hades. Weiß nur noch ungefähr, wann das war."};
 
         LayoutInflater layoutInflater = getLayoutInflater();
 
