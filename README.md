@@ -1,3 +1,3 @@
 # Ovid
-A simple App providing information about Ovid.
-This is the result of a school project.
+A simple app providing information about Ovid.
+This was a school project.
